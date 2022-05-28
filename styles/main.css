@@ -14,12 +14,20 @@ body {
   background-color: rgb(204, 195, 195);
 }
 
+img {
+  display: block;
+}
+
 #main {
   margin-top:50px
 }
 
 #title {
   text-align: center;
+}
+
+#image {
+  max-width: 100%;
 }
 
 #img-div {
@@ -44,5 +52,3 @@ body {
   margin-right: auto;
   font-size: 15px;
 }
-
-
